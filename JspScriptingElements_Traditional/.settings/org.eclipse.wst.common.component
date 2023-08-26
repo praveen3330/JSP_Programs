@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="JspScriptingElements_Traditional">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="JspScriptingElements_Traditional"/>
+        <property name="java-output-path" value="/JspScriptingElements_Traditional/build/classes"/>
+    </wb-module>
+</project-modules>
